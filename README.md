@@ -77,6 +77,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [HuggingFace Agents](https://github.com/huggingface/transformers/tree/main/src/transformers/agents) – Agents using tools with multimodal inputs.
 - [MM-REACT](https://github.com/microsoft/visual-chatgpt) – Vision–language agent with tool-augmented reasoning.
 - [Flamingo Agents](https://github.com/deepmind/flamingo) – Multimodal few-shot reasoning system.
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) – Trust scoring and identity verification for autonomous AI agent wallets on Solana. Verify agent identity before granting access to paid multimodal APIs or x402 micropayment endpoints. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 
 ## Datasets
 
