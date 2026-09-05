@@ -1,4 +1,4 @@
-# Awesome Multimodal AI [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Multimodal AI [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![DOI](https://zenodo.org/badge/1106327045.svg)](https://doi.org/10.5281/zenodo.19680510)  
 [![GitHub Sponsor](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen) &nbsp; 
@@ -99,11 +99,11 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Related Awesome Lists
 
-- [Awesome AI](https://github.com/awesomelistsio/awesome-ai)
-- [Awesome Computer Vision](https://github.com/awesomelistsio/awesome-computer-vision)
-- [Awesome Speech Processing](https://github.com/awesomelistsio/awesome-speech-processing)
-- [Awesome AI Agents](https://github.com/awesomelistsio/awesome-ai-agents)
-- [Awesome AI Research Tools](https://github.com/awesomelistsio/awesome-ai-research-tools)
+- [Awesome AI](https://github.com/brandonhimpfen/awesome-ai)
+- [Awesome Computer Vision](https://github.com/brandonhimpfen/awesome-computer-vision)
+- [Awesome Speech Processing](https://github.com/brandonhimpfen/awesome-speech-processing)
+- [Awesome AI Agents](https://github.com/brandonhimpfen/awesome-ai-agents)
+- [Awesome AI Research Tools](https://github.com/brandonhimpfen/awesome-ai-research-tools)
 
 ## Contribute
 
