@@ -47,6 +47,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [OpenCLIP](https://github.com/mlfoundations/open_clip) – Reimplementation and extension of CLIP models.
 - [MMDetection](https://github.com/open-mmlab/mmdetection) – OpenMMLab vision detection framework.
 - [MMF (Modular Multimodal Framework)](https://github.com/facebookresearch/mmf) – Framework for vision + language tasks.
+- [Pixeltable](https://github.com/pixeltable/pixeltable) – Declarative multimodal AI data engine for tables, computed columns, embedding search, and video/audio/image pipelines.
 
 ## Image & Vision
 
